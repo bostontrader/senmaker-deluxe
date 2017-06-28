@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Thomas Radloff",
+    "email": "bostontrader@gmail.com",
+    "url": "https://github.com/bostontrader"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "description": "Build a grammatically correct English composition.",
+  "license": "MIT",
+  "name": "senmaker-deluxe",
+  "scripts": {
+  },
+  "version": "0.0.1"
+}
